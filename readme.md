@@ -1,20 +1,27 @@
-# Prediction Models Basics
+# Machine Learning Basics
 
-> A regression model provides a function that describes the relationship
-> between one or more independent variables and a response, dependent,
-> or target variable.
+> Machine learning is a subfield of artificial intelligence (AI). The
+> goal of machine learning generally is to understand the structure of
+> data and fit that data into models that can be understood and utilized
+> by people.
 
-A regression analysis is the basis for many types of prediction and for determining the effects on target variables. When you hear about studies on the news that talk about fuel efficiency, or the cause of pollution, or the effects of screen time on learning, there is often a regression model being used to support their claims.
+In machine learning, tasks are generally classified into broad categories. These categories are based on how learning is received or how feedback on the learning is given to the system developed.
 
-According to [analytics vidhya](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/) there are various kinds of regression techniques available to make predictions but the majority of them are driven by three metrics: 
-![](https://www.analyticsvidhya.com/wp-content/uploads/2015/08/Regression_Type.png  )
+## Supervised Learning
+In supervised learning, the computer is provided with example inputs that are labeled with their desired outputs. The purpose of this method is for the algorithm to be able to “learn” by comparing its actual output with the “taught” outputs to find errors, and modify the model accordingly. Supervised learning therefore uses patterns to predict label values on additional unlabeled data.
 
-There are many regression models, in this project I will only introduce you to the most commonly used wich is: 
+## Unsupervised Learning
+In unsupervised learning, data is unlabeled, so the learning algorithm is left to find commonalities among its input data. As unlabeled data are more abundant than labeled data, machine learning methods that facilitate unsupervised learning are particularly valuable.
 
+**Text taken from** [**DigitalOcean**](https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning)
+
+# The project itself
+The project aims to learn the basics of ML models, which in this case are:
+
+ - SVM (Support Vector Machine)
  - Linear Regression
- -  Logistic Regression
- - Polynomial Regression
- - Stepwise Regression
- - Ridge Regression
-
-And some other types of predictions like Random Forest, K Nearest Neighbours (KNN) and Support Vector Machines (SVMs).
+ - Logistic Regression
+ - KNN (K Nearest Neighbors)
+ - Naive Bayes
+ - Decision Tree
+ - Decision Tree (Random Forest)
