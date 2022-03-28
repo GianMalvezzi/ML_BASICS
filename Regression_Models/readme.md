@@ -13,8 +13,3 @@ There are many regression models, in this project I will only introduce you to t
 
  - Linear Regression
  -  Logistic Regression
- - Polynomial Regression
- - Stepwise Regression
- - Ridge Regression
-
-And some other types of predictions like Random Forest, K Nearest Neighbours (KNN) and Support Vector Machines (SVMs).
