@@ -16,7 +16,7 @@ In unsupervised learning, data is unlabeled, so the learning algorithm is left t
 **Text taken from** [**DigitalOcean**](https://www.digitalocean.com/community/tutorials/an-introduction-to-machine-learning)
 
 # The project itself
-The project aims to learn the basics of ML models, which in this case are:
+The project aims to learn the basics of ML models using scikit learn and tensorflow library, which in this case are:
 
  - SVM (Support Vector Machine)
  - Linear Regression
