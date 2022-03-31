@@ -25,3 +25,4 @@ The project aims to learn the basics of ML models using scikit learn and tensorf
  - Naive Bayes
  - Decision Tree
  - Decision Tree (Random Forest)
+ - Simple Neural Network
